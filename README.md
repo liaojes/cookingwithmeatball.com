@@ -3,6 +3,7 @@
 ```
 (sudo) gem install bundler
 bundle
+bundle exec jekyll serve
 ```
 
 # So Simple Theme
